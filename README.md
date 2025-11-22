@@ -32,6 +32,7 @@ Hardware – PCs, Cyclone II , USB flasher
 
 
 **Program:**
+```
 
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
@@ -46,11 +47,10 @@ assign f2 = x&~y&z | ~x&~y&z | ~w&x&y | w&~x&y | w&x&y;
 endmodule
 
 */
+```
 
 
-**RTL realization**
-
-**Output:**
+**RTL realization** **Output:**
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b50c783d-727e-4bdd-b99f-8636ba0122ed" />
 
 
